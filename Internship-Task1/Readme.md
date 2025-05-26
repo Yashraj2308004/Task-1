@@ -22,9 +22,12 @@ This folder contains screenshots of local network scanning and enumeration task 
 - And will pings all addresses from `.1` to `.254`
 - Displays only live (reachable) hosts.
 
-- I tried to add port scanning for live hosts but some concepts I didn't understood for now so I will try to first understand it and then will try to add that too in    this script.
+- I tried to add port scanning for live hosts but some concepts I didn't understood for now so I will try to first understand it and then will try to add that too in this script.
 
 ## ✅ Conclusion
 
 - This task helped me explore both manual and automated approaches to local network scanning.
 - I also learned about tools like nmap , bettercap , ettercap.
+
+- I also completed the [Nmap room on TryHackMe](https://tryhackme.com/room/furthernmap) to better understand how network scanning works and to practice advanced scanning techniques.
+
